@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500px;
+    text-align: center;
+    background-color: #FDBDBA;
+}
+
+header {
+    background-image: url(img/text_about_me.jpg);
+}
+
+nav.border a,
+footer a {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #61accab9;
+    background-color: #61acca;
+    text-decoration: none;
+    font-size: .8rem;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 2rem;
+    text-decoration: underline overline;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+article.left {
+    text-align: left;
+}
+
+article.center {
+    text-align: center;
+}
+
+article.right {
+    text-align: right;
+}
