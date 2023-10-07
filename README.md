@@ -1,2 +1,2 @@
-# About-me
-About me and my hobbies
+# About me
+About me and my hobbies.
